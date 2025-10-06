@@ -23,12 +23,14 @@ if ($_SESSION["eLogin"] == 1)
   <body>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js" integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" crossorigin="anonymous"></script>
     <div class = "container">
+        <div class = "row">
+            <div class = "col">
+                <img src = "../images/datedeal.png">
+          </div>
+        </div>
         <div class = "row mt-2">
           <div class = "col mt-5">
             <img src = "../images/g.png">
-          </div>
-          <div class = "col me-5">
-            <img src = "../images/datedeal.png">
           </div>
           <div class = "col mt-5 ms-5">
             <img src = "../images/e.png">
